@@ -1,0 +1,9 @@
+1.Git Clone: Git clone é uma comando para baixar o código-fonte existente de um repositório remoto (como, por exemplo, o Github). Git clone, basicamente, faz uma cópia idêntica da versão mais recente de um projeto em um repositório e a salva em seu computador.
+
+2.Git Status: O comando git status nos dá todas as informações necessárias sobre a branch atual.Se a branch em que estamos no momento está atualizada, se precisamos fazer o commit, push ou pull de algo, se os arquivos estão em fase de stage, fora dessa fase ou se não estão sendo rastreados, se arquivos foram criados,modificados ou excluídos.
+
+3.Git add: Precisamos usar o comando git add para incluir as alterações de um ou vários arquivos em nosso próximo commit. (git add <arquivo> para adicionar um único arquivo) e (git add -A para adicionar tudo ao mesmo tempo).
+
+4.Git commit: Usamos quando chegamos a determinado ponto em desenvolvimento, queremos salvar nossas alterações. Também precisamos escrever uma mensagem breve para explicar o que desenvolvemos ou alteramos no código-fonte.
+
+5.Git push: Após fazer o commit de suas alterações, a próxima coisa a fazer é enviar suas alterações ao servidor remoto. Git push faz o upload dos seus commits no repositório remoto.
